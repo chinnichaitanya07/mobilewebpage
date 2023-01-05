@@ -1,0 +1,40 @@
+.bgimg3 {
+	background-image: url('https://i.pinimg.com/736x/43/4d/3b/434d3b3816c3cc208547b7e3e7f19602.jpg');
+	height: 160vh;
+	background-size: cover;
+}
+.headfirst {
+	color: white;
+	font-family: 'Roboto';
+	font-size: 30px;
+	font-weight: bold;
+	padding: 25px;
+}
+.bgcarouselcard {
+	background-color: skyblue;
+	border-bottom-left-radius: 10px;
+	border-top-right-radius: 10px;
+	margin: 100px;
+	margin-top: 15px;
+}
+.cardcin {
+	padding: 20px;
+}
+.headsecond {
+	color: blue;
+	font-family: 'Roboto';
+	font-size: 20px;
+	font-weight: bold;
+}
+.paraline {
+	color: black;
+	font-family: 'Roboto';
+	font-size: 13px;
+}
+.headsecond {
+	color: white;
+	font-family: 'Roboto';
+	font-size: 30px;
+	font-weight: bold;
+	padding: 25px;
+}

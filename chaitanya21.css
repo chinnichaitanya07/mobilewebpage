@@ -1,0 +1,34 @@
+.bgimg2 {
+	background-image: url('https://img.freepik.com/free-vector/abstract-background_53876-43362.jpg?w=2000');
+	background-size: cover;
+	height: 130vh;
+}
+.Mobilehead {
+	color: black;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 35px;
+	padding: 25px;
+}
+.Layoutcard2 {
+	background-color: white ;
+	border-radius: 8px;
+	padding: 10px;
+	margin: 18px;
+}
+.brandsimg {
+	width: 120px;
+	height: 120px;
+}
+.brandshead {
+	color: black;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 15px;
+
+}
+.brandspara {
+	color: black;
+	font-family: 'Roboto';
+	font-size: 15px;
+} 
